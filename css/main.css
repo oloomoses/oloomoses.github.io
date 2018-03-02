@@ -1,0 +1,23 @@
+.bg-company-red{
+	background-color: #18a04a;
+}
+.profile{
+	#padding: 10px;
+	margin: 30px 300px 0px;
+}
+
+.biz{
+
+	margin: 30px;
+	padding: 30px;
+
+}
+.added_biz{
+	margin:30px;
+
+}
+.view{
+	/*#display: inline-block;*/
+	position: center;
+
+}
